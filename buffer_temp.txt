@@ -1,0 +1,2 @@
+a
+/home/anton/program_nasm/AES/encrypt.txt
